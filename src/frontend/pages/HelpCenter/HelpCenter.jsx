@@ -8,6 +8,8 @@ const HelpCenter = () => {
             </Helmet>
 
             <h2 className=" text-2xl">Explore Help Center!</h2>
+
+
         </div>
     );
 };
